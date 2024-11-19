@@ -17,7 +17,7 @@ pip install -r requirements.txt
 Create the Chroma DB.
 
 ```python
-python create_database.py
+python populate_database.py
 ```
 
 ## Query the database
